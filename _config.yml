@@ -15,7 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Education.io
 email: Abubakaryagob@gmail.com
+name: AHR University
 description: Education Start up
+favicon: 'assets/images/favicon.ico'
+
 baseurl: 
 email: 'wowthemesnet@gmail.com'
 google_analytics: 'UA-46278016-1'
@@ -26,17 +29,25 @@ twitter_username: blacksuan19
 github_username:  blacksuan19
 
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  blacksuan19:
+    name: abubakar yagoub
+    display_name: Abubakar Yagoub
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: Abubakaryagob@gmail.com
+    web: https://github.com/blacksuan19
+    twitter: https://twitter.com/blacksuan19
+    description: "some nibba who codes in bash , works on the linux kernel and hates web development for some reason"
+  hannan:
+    name: hannan
+    display_name: hannan
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    rauda:
+    name: rauda
+    display_name: rauda
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
