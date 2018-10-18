@@ -1,0 +1,13 @@
+---
+layout: default
+disqus: false
+archive: false
+post_class: post-template
+---
+<div class="row listfeaturedtag">
+	{% for post in site.posts %}
+		{% if post.announcement == true %}
+			{% include featuredbox.html %}
+		{% endif %}
+	{% endfor %}
+</div>
