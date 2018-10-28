@@ -292,7 +292,7 @@ span.post-name a,span.post-read-more a:hover {
 	border-radius:30px;
 	cursor:pointer;
 }
-.mediumnavigation .form-inline .btn:hover,.mediumnavigation .form-inline .btn:active {
+.mediumnavigation .form-inline,.mediumnavigation .form-inline .btn:active {
 	background:transparent;
 	color:green;
 }
@@ -591,6 +591,19 @@ a.btn {color:#fff;}
 	font-weight:600;
 	text-transform:uppercase;
 }
+.btn span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+  }
+ .btn:hover {
+ 	background-color: white;
+    	color: #4CAF50;
+ }
+
 .post-top-meta .btn.follow {
 	margin-left:5px;
 	margin-top:-4px;
@@ -858,3 +871,4 @@ iframe {
 }
 
 /*my custom  CSS*/
+
