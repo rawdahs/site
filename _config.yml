@@ -14,28 +14,23 @@ github_username:  blacksuan19
 
 authors:
   blacksuan19:
-    name: abubakar yagoub
+    name: Abubakar Yagoub
     display_name: Abubakar Yagoub
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 61064d1b87b8601d5a5b621ac1e83443
     email: Abubakaryagob@gmail.com
-    web: https://github.com/blacksuan19
-    twitter: https://twitter.com/blacksuan19
+    github: https://github.com/blacksuan19
     description: "some nibba who codes in bash , works on the linux kernel and hates web development for some reason"
   hannan:
     name: hannan
     display_name: hannan
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
     rawdah:
     name: rawdah
     display_name: rawdah
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Build settings
