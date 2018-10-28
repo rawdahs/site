@@ -9,7 +9,7 @@ body {
     font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
 }
 .mainheading {
-	padding: 0rem 0rem 1rem 0;
+	padding: 0rem 0rem 0rem 0;
 }
 
 a {
@@ -88,7 +88,7 @@ section.recent-posts {
     text-transform: none;
     letter-spacing:0;
 }
-.layout-page .section-title h2:before {top:17px;}
+.layout-page .section-title h2:before {top:15px;}
 .article-post ol, .article-post ul { margin-bottom:1.5rem;}
 .article-post ol ol, .article-post ul ul {   
     list-style: disc;
@@ -884,7 +884,7 @@ iframe {
     
 }
 
-/*my custom  CSS*/
+/*go to top button*/
 #return-to-top {
     position: fixed;
     bottom: 20px;
@@ -904,6 +904,7 @@ iframe {
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
+    float: right;
 }
 #return-to-top i {
     color: #fff;
@@ -925,5 +926,4 @@ iframe {
     color: #fff;
     top: 5px;
 }
-
 
