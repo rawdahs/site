@@ -11,6 +11,8 @@ baseurl:
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blacksuan19
 github_username:  blacksuan19
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5bd5828f7a0efc00111a3bd3&product=sticky-share-buttons"></script>'
+
 
 authors:
   blacksuan19:
